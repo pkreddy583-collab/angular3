@@ -1,0 +1,5 @@
+{
+  "name": "Incident SLA Dashboard",
+  "description": "An intelligent dashboard to monitor incidents nearing SLA breach, with AI-powered resolution recommendations. Filter incidents by portfolio and view detailed analysis to expedite solutions.",
+  "requestFramePermissions": []
+}
